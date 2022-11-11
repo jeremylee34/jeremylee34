@@ -9,7 +9,7 @@ Experience 🤝 = {
         'IT Director',
         'Nov 2022 - Present'
     ],
-    'Sunswift Racing 🏎' : [
+    'Sunswift Racing 🏎️' : [
         'Undergraduate Software Engineer',
         'Commencing Feb 2023'
     ]
