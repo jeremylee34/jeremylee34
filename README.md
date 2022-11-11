@@ -1,3 +1,5 @@
+<h2>Hi 👋 I'm Jeremy, and welcome to my profile! </h2>
+
 ```
 Experience 🤝 = {
     'UNSW Digital Society 💜' : [
