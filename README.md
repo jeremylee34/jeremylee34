@@ -1,16 +1,35 @@
-### Hi there 👋
+```
+Experience 🤝 = {
+    'UNSW Digital Society 💜' : [
+        'IT Subcommittee',
+        'Mar 2022 - Nov 2022',
+        '-',
+        'IT Director',
+        'Nov 2022 - Present'
+    ],
+    'Sunswift Racing 🏎' : [
+        'Undergraduate Software Engineer',
+        'Commencing Feb 2023'
+    ]
+}
 
-<!--
-**jeremylee34/jeremylee34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Work 💼 = {
+    'Optus 📱' : [
+        'Software Engineer Intern',
+        'Jul 2022 - Present'
+    ],
+    'Apple 🍏' : [
+        'Specialist',
+        'Aug 2021 - Feb 2022'
+    ],
+    'JB Hi-Fi 💻' : [
+        'IT/Computer Salesperson',
+        'Nov 2020 - Feb 2021'
+    ], 
+    'Phoenix Education 👨‍🏫' : [
+        'HSC Mathematics Tutor',
+        'Jan 2020 - Oct 2020'
+    ]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
