@@ -11,14 +11,14 @@ Experience 🤝 = {
     ],
     'Sunswift Racing 🏎️' : [
         'Undergraduate Software Engineer',
-        'Commencing Feb 2023'
+        'Feb 2023 - Present'
     ]
 }
 
 Work 💼 = {
     'Optus 📱' : [
         'Software Engineer Intern',
-        'Jul 2022 - Present'
+        'Jul 2022 - Jan 2023'
     ],
     'Apple 🍏' : [
         'Specialist',
