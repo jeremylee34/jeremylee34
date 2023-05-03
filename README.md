@@ -23,14 +23,6 @@ Work 💼 = {
     'Apple 🍏' : [
         'Specialist',
         'Aug 2021 - Feb 2022'
-    ],
-    'JB Hi-Fi 💻' : [
-        'IT/Computer Salesperson',
-        'Nov 2020 - Feb 2021'
-    ], 
-    'Phoenix Education 👨‍🏫' : [
-        'HSC Mathematics Tutor',
-        'Jan 2020 - Oct 2020'
     ]
 }
 ```
